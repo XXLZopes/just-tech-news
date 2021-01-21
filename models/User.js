@@ -1,3 +1,4 @@
+//Where do we define model parameters? QUESTION///////////////
 const { Model, DataTypes } = require('sequelize');
 const sequelize = require('../config/connection');
 const bcrypt = require('bcrypt');
